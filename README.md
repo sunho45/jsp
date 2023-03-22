@@ -33,3 +33,37 @@ charset=utf-8</h4>
 
 
 ```
+3-3
+```
+<html>
+<head>
+
+<title>
+
+
+
+Directives Tag
+
+
+
+</title>
+
+
+
+
+</head>
+
+
+
+
+<body>
+<%@ page import="java.util.Date" %>
+Today is <%=new Date() %>
+
+
+
+
+</body>
+</html>
+
+```
